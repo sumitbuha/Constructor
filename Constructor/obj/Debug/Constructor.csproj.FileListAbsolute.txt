@@ -1,0 +1,9 @@
+c:\users\sbuh\documents\visual studio 2015\Projects\Constructor\Constructor\bin\Debug\Constructor.exe.config
+c:\users\sbuh\documents\visual studio 2015\Projects\Constructor\Constructor\bin\Debug\Constructor.exe
+c:\users\sbuh\documents\visual studio 2015\Projects\Constructor\Constructor\bin\Debug\Constructor.pdb
+c:\users\sbuh\documents\visual studio 2015\Projects\Constructor\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+c:\users\sbuh\documents\visual studio 2015\Projects\Constructor\Constructor\obj\Debug\Constructor.exe
+c:\users\sbuh\documents\visual studio 2015\Projects\Constructor\Constructor\obj\Debug\Constructor.pdb
+C:\Users\sbuh\Documents\Visual Studio 2015\jproject\gitproject\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\sbuh\Documents\Visual Studio 2015\jproject\gitproject\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\sbuh\Documents\Visual Studio 2015\jproject\gitproject\Constructor\Constructor\obj\Debug\Constructor.pdb
