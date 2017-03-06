@@ -9,6 +9,7 @@ namespace Constructor
     class Program
     {
         int length;
+        int width;
         public Program(int l)
         {
             Console.WriteLine("Hii i am here");
